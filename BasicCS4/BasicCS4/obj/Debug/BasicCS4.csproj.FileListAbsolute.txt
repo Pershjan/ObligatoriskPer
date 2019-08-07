@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\bin\Debug\BasicCS4.exe.config
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\bin\Debug\BasicCS4.exe
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\bin\Debug\BasicCS4.pdb
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\obj\Debug\BasicCS4.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\obj\Debug\BasicCS4.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\obj\Debug\BasicCS4.exe
+C:\Users\Pedersen\source\repos\BasicCS4\BasicCS4\obj\Debug\BasicCS4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\bin\Debug\ParprogrammeringYO.exe.config
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\bin\Debug\ParprogrammeringYO.exe
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\bin\Debug\ParprogrammeringYO.pdb
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\obj\Debug\ParprogrammeringYO.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\obj\Debug\ParprogrammeringYO.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\obj\Debug\ParprogrammeringYO.exe
+C:\Users\Pedersen\source\repos\ParprogrammeringYO\ParprogrammeringYO\obj\Debug\ParprogrammeringYO.pdb
