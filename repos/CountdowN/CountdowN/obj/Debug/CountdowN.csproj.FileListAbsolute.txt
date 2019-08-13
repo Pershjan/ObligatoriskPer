@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\bin\Debug\CountdowN.exe.config
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\bin\Debug\CountdowN.exe
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\bin\Debug\CountdowN.pdb
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\obj\Debug\CountdowN.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\obj\Debug\CountdowN.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\obj\Debug\CountdowN.exe
+C:\Users\Pedersen\source\repos\CountdowN\CountdowN\obj\Debug\CountdowN.pdb

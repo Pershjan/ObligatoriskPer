@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\Poopface\Poopface\bin\Debug\Poopface.exe.config
+C:\Users\Pedersen\source\repos\Poopface\Poopface\bin\Debug\Poopface.exe
+C:\Users\Pedersen\source\repos\Poopface\Poopface\bin\Debug\Poopface.pdb
+C:\Users\Pedersen\source\repos\Poopface\Poopface\obj\Debug\Poopface.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\Poopface\Poopface\obj\Debug\Poopface.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\Poopface\Poopface\obj\Debug\Poopface.exe
+C:\Users\Pedersen\source\repos\Poopface\Poopface\obj\Debug\Poopface.pdb

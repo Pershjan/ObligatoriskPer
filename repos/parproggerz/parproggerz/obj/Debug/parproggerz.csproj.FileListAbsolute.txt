@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\bin\Debug\parproggerz.exe.config
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\bin\Debug\parproggerz.exe
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\bin\Debug\parproggerz.pdb
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\obj\Debug\parproggerz.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\obj\Debug\parproggerz.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\obj\Debug\parproggerz.exe
+C:\Users\Pedersen\source\repos\parproggerz\parproggerz\obj\Debug\parproggerz.pdb

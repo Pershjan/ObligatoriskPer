@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\bin\Debug\BasicCS7.exe.config
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\bin\Debug\BasicCS7.exe
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\bin\Debug\BasicCS7.pdb
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\obj\Debug\BasicCS7.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\obj\Debug\BasicCS7.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\obj\Debug\BasicCS7.exe
+C:\Users\Pedersen\source\repos\BasicCS7\BasicCS7\obj\Debug\BasicCS7.pdb

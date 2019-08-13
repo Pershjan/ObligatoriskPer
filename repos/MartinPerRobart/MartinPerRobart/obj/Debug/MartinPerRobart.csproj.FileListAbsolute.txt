@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\obj\Debug\MartinPerRobart.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\obj\Debug\MartinPerRobart.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\bin\Debug\MartinPerRobart.exe.config
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\bin\Debug\MartinPerRobart.exe
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\bin\Debug\MartinPerRobart.pdb
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\obj\Debug\MartinPerRobart.exe
+C:\Users\Pedersen\source\repos\MartinPerRobart\MartinPerRobart\obj\Debug\MartinPerRobart.pdb
