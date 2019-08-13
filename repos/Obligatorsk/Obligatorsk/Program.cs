@@ -24,6 +24,7 @@ namespace Obligatorsk
             while (!quitNow)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Kommandoer: /hjelp, /liste /id");
                 command = Console.ReadLine();
                 switch (command)
                 {
