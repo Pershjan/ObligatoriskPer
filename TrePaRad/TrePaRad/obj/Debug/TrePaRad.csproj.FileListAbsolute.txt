@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\bin\Debug\TrePaRad.exe.config
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\bin\Debug\TrePaRad.exe
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\bin\Debug\TrePaRad.pdb
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\obj\Debug\TrePaRad.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\obj\Debug\TrePaRad.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\obj\Debug\TrePaRad.exe
-C:\Users\Pedersen\source\repos\TrePaRad\TrePaRad\obj\Debug\TrePaRad.pdb
