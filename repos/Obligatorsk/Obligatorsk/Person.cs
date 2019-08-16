@@ -10,31 +10,34 @@ namespace Obligatorsk
     {
         public int id;
         public string firstName;
-        public int age;
         public string lastName;
         public int birthDate;
-        public string mother;
-        public string father;
-        public string deathDate;
-        public Person(int _id, string _firstName, int _age, string _lastName, int _birthDate, string _father, string _mother, string _deathDate = null)
+        public Person mother;
+        public Person father;
+        public int deathDate;
+        public Person(int _id, string _firstName = null, string _lastName = null, int _birthDate = 0, int _deathDate = 0, Person _father = null, Person _mother = null)
         {
             id = _id;
             firstName = _firstName;
-            age = _age;
             lastName = _lastName;
             birthDate = _birthDate;
             mother = _mother;
             father = _father;
             deathDate = _deathDate;
         }
-        public void DeathDate()
+        public void Show()
         {
-            if (deathDate != null)
-            {
-                Console.WriteLine("Dødsår: " + deathDate);
-            }
-
+            Console.WriteLine("\n");
+            Console.WriteLine("ID: " + id);
+            Console.WriteLine("Fornavn: " + firstName);
+            if (lastName != null)Console.WriteLine("Etternavn: " + lastName);
+            Console.WriteLine("Fødselsår: " + birthDate);
+            if (deathDate != 0) Console.WriteLine("Dødsår: " + deathDate);
+            Console.WriteLine("Far: " + father);
+            Console.WriteLine("Mor: " + mother);
         }
+
+        
 
     }
 }

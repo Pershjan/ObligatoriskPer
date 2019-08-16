@@ -4,49 +4,14 @@ using System.Linq;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
+using static BasicCS5.animols;
 
 namespace BasicCS5
 {
     class Program
     {
-    }
-
-    class Animal
-    {
-        public string name;
-        public int age;
-        public float happiness;
-
-        public void PrintBase()
-        {
-            Console.WriteLine("name - " + name);
-            Console.WriteLine("age - " + age);
-            Console.WriteLine("happiness - " + happiness);
-        }
-
-        public class Dog : Animal
-        {
-            public int spotCount;
-
-            public void Bark()
-            {
-                Console.WriteLine("Woof!");
-                base.happiness += 0.1f;
-            }
-
-        }
-        class Cat : Animal
-        {
-            public int cuteness;
-
-            public void Meow()
-            {
-                Console.WriteLine("Meow");
-                base.happiness -= 0.1f;
-            }
-
-        }
         public static void Main(string[] args)
+
         {
             Dog spotty = new Dog();
             spotty.name = "Spotty";
@@ -57,6 +22,7 @@ namespace BasicCS5
             spotty.Bark();
             Console.WriteLine("New Happiness: " + spotty.happiness);
 
+            Console.ReadKey();
             Console.WriteLine("---------------------------");
 
             Cat Heisenberg = new Cat();
@@ -70,5 +36,4 @@ namespace BasicCS5
             Console.ReadKey();
         }
     }
-
 }
