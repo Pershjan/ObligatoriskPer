@@ -29,12 +29,12 @@ namespace Obligatorsk
         {
             Console.WriteLine("\n");
             Console.WriteLine("ID: " + id);
-            Console.WriteLine("Fornavn: " + firstName);
+            if (firstName != null) Console.WriteLine("Fornavn: " + firstName);
             if (lastName != null)Console.WriteLine("Etternavn: " + lastName);
-            Console.WriteLine("Fødselsår: " + birthDate);
+            if (birthDate != 0) Console.WriteLine("Fødselsår: " + birthDate);
             if (deathDate != 0) Console.WriteLine("Dødsår: " + deathDate);
-            Console.WriteLine("Far: " + father);
-            Console.WriteLine("Mor: " + mother);
+            if (father != null) Console.WriteLine("Far: " + father.firstName);
+            if (mother != null) Console.WriteLine("Mor: " + mother.firstName);
         }
 
         
