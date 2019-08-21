@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\bin\Debug\ObligatorsikOppgave.exe.config
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\bin\Debug\ObligatorsikOppgave.exe
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\bin\Debug\ObligatorsikOppgave.pdb
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\obj\Debug\ObligatorsikOppgave.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\obj\Debug\ObligatorsikOppgave.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\obj\Debug\ObligatorsikOppgave.exe
-C:\Users\Pedersen\source\repos\ObligatorsikOppgave\ObligatorsikOppgave\obj\Debug\ObligatorsikOppgave.pdb

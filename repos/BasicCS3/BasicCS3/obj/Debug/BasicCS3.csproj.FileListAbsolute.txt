@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\bin\Debug\BasicCS3.exe.config
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\bin\Debug\BasicCS3.exe
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\bin\Debug\BasicCS3.pdb
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\obj\Debug\BasicCS3.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\obj\Debug\BasicCS3.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\obj\Debug\BasicCS3.exe
-C:\Users\Pedersen\source\repos\BasicCS3\BasicCS3\obj\Debug\BasicCS3.pdb

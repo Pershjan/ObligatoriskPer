@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\bin\Debug\Nedtelling.exe.config
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\bin\Debug\Nedtelling.exe
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\bin\Debug\Nedtelling.pdb
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\obj\Debug\Nedtelling.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\obj\Debug\Nedtelling.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\obj\Debug\Nedtelling.exe
-C:\Users\Pedersen\source\repos\Nedtelling\Nedtelling\obj\Debug\Nedtelling.pdb

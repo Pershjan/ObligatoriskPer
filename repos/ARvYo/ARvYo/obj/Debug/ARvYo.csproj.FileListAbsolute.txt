@@ -1,7 +1,0 @@
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\bin\Debug\ARvYo.exe.config
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\bin\Debug\ARvYo.exe
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\bin\Debug\ARvYo.pdb
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\obj\Debug\ARvYo.csprojAssemblyReference.cache
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\obj\Debug\ARvYo.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\obj\Debug\ARvYo.exe
-C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ARvYo\ARvYo\obj\Debug\ARvYo.pdb

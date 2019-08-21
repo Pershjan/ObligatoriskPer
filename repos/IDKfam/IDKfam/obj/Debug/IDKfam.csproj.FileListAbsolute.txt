@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\bin\Debug\IDKfam.exe.config
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\bin\Debug\IDKfam.exe
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\bin\Debug\IDKfam.pdb
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\obj\Debug\IDKfam.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\obj\Debug\IDKfam.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\obj\Debug\IDKfam.exe
-C:\Users\Pedersen\source\repos\IDKfam\IDKfam\obj\Debug\IDKfam.pdb

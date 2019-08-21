@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\poop\poop\bin\Debug\poop.exe.config
-C:\Users\Pedersen\source\repos\poop\poop\bin\Debug\poop.exe
-C:\Users\Pedersen\source\repos\poop\poop\bin\Debug\poop.pdb
-C:\Users\Pedersen\source\repos\poop\poop\obj\Debug\poop.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\poop\poop\obj\Debug\poop.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\poop\poop\obj\Debug\poop.exe
-C:\Users\Pedersen\source\repos\poop\poop\obj\Debug\poop.pdb

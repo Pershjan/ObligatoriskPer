@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\bin\Debug\ParProgrammeringPurePuzzles.exe.config
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\bin\Debug\ParProgrammeringPurePuzzles.exe
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\bin\Debug\ParProgrammeringPurePuzzles.pdb
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\obj\Debug\ParProgrammeringPurePuzzles.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\obj\Debug\ParProgrammeringPurePuzzles.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\obj\Debug\ParProgrammeringPurePuzzles.exe
-C:\Users\Pedersen\source\repos\ParProgrammeringPurePuzzles\ParProgrammeringPurePuzzles\obj\Debug\ParProgrammeringPurePuzzles.pdb

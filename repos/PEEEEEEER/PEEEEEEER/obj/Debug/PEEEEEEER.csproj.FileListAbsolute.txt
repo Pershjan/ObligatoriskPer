@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\bin\Debug\PEEEEEEER.exe.config
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\bin\Debug\PEEEEEEER.exe
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\bin\Debug\PEEEEEEER.pdb
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\obj\Debug\PEEEEEEER.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\obj\Debug\PEEEEEEER.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\obj\Debug\PEEEEEEER.exe
-C:\Users\Pedersen\source\repos\PEEEEEEER\PEEEEEEER\obj\Debug\PEEEEEEER.pdb

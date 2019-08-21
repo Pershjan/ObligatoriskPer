@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\blahblah\blahblah\bin\Debug\blahblah.exe.config
-C:\Users\Pedersen\source\repos\blahblah\blahblah\bin\Debug\blahblah.exe
-C:\Users\Pedersen\source\repos\blahblah\blahblah\bin\Debug\blahblah.pdb
-C:\Users\Pedersen\source\repos\blahblah\blahblah\obj\Debug\blahblah.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\blahblah\blahblah\obj\Debug\blahblah.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\blahblah\blahblah\obj\Debug\blahblah.exe
-C:\Users\Pedersen\source\repos\blahblah\blahblah\obj\Debug\blahblah.pdb

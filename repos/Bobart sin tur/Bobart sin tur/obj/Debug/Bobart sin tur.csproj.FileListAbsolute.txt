@@ -1,7 +1,0 @@
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\bin\Debug\Bobart sin tur.exe.config
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\bin\Debug\Bobart sin tur.exe
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\bin\Debug\Bobart sin tur.pdb
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\obj\Debug\Bobart sin tur.csprojAssemblyReference.cache
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\obj\Debug\Bobart sin tur.csproj.CoreCompileInputs.cache
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\obj\Debug\Bobart sin tur.exe
-C:\Users\Pedersen\source\repos\Bobart sin tur\Bobart sin tur\obj\Debug\Bobart sin tur.pdb
