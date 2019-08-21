@@ -1,0 +1,7 @@
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\bin\Debug\Rainbowz.exe.config
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\bin\Debug\Rainbowz.exe
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\bin\Debug\Rainbowz.pdb
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\obj\Debug\Rainbowz.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\obj\Debug\Rainbowz.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\obj\Debug\Rainbowz.exe
+C:\Users\Pedersen\source\repos\Rainbowz\Rainbowz\obj\Debug\Rainbowz.pdb

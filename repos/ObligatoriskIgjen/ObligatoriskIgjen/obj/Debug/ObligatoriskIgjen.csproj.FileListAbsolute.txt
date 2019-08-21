@@ -1,0 +1,7 @@
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\bin\Debug\ObligatoriskIgjen.exe.config
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\bin\Debug\ObligatoriskIgjen.exe
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\bin\Debug\ObligatoriskIgjen.pdb
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\obj\Debug\ObligatoriskIgjen.csprojAssemblyReference.cache
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\obj\Debug\ObligatoriskIgjen.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\obj\Debug\ObligatoriskIgjen.exe
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\ObligatoriskIgjen\ObligatoriskIgjen\obj\Debug\ObligatoriskIgjen.pdb

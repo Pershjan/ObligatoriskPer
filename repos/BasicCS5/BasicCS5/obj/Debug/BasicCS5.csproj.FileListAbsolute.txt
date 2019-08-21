@@ -1,0 +1,14 @@
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.csprojAssemblyReference.cache
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.exe.config
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.exe
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.pdb
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.exe
+C:\Users\Pedersen\source\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.pdb
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.exe.config
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.exe
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\bin\Debug\BasicCS5.pdb
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.csprojAssemblyReference.cache
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.csproj.CoreCompileInputs.cache
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.exe
+C:\Users\Pedersen\Documents\GitHub\ObligatoriskPer\repos\BasicCS5\BasicCS5\obj\Debug\BasicCS5.pdb
