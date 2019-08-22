@@ -82,9 +82,9 @@ namespace ObligatoriskIgjen
                         Console.WriteLine("ukjent kommando: " + command);
                         break;
                 }
-                
+
             }
-            
+
         }
     }
 }

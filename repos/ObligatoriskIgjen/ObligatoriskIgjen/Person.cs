@@ -16,26 +16,11 @@ namespace ObligatoriskIgjen
         public Person Mother { get; set; }
         public Person Father { get; set; }
 
-        public Person(int _id/*, string _lastName = null, string _firstName = null, int _birthYear = 0, int _deathYear = 0, Person _mother = null, Person _father = null*/)
+        public Person(int _id)
         {
             Id = _id;
-            //lastName = _lastName;
-            //firstName = _firstName;
-            //birthYear = _birthYear;
-            //deathYear = _deathYear;
-            //mother = _mother;
-            //father = _father;
         }
-    //    public Person()
-    //    {
-    //        Id;
-    //        FirstName;
-    //        BirthYear;
-    //        LastName;
-    //        DeathYear;
-    //        Mother;
-    //        Father;
-    //}
+
         public void Show()
         {
             Console.WriteLine("\n");
